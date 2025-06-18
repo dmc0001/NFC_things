@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC Image Transfer</string>
+
+    <!-- UI Text -->
+    <string name="select_image">Select Image</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="send_via_nfc">Send via NFC + Bluetooth</string>
+    <string name="how_to_use">How to use:</string>
+    <string name="instructions">1. Select or take a photo\n2. Tap \'Send via NFC + Bluetooth\'\n3. Bring devices together (NFC)\n4. Accept Bluetooth file transfer</string>
+
+    <!-- Status Messages -->
+    <string name="select_image_to_start">Select an image to start sharing</string>
+    <string name="image_ready_to_share">Image ready to share. Tap \'Send via NFC\' and bring devices together.</string>
+    <string name="nfc_ready">NFC ready! Bring devices together to share image.</string>
+    <string name="receiving_image">Receiving image via Bluetooth...</string>
+    <string name="sharing_image">Sharing image via Bluetooth...</string>
+    <string name="ready_to_receive">Ready to receive: %1$s\nAccept the Bluetooth file transfer.</string>
+
+    <!-- Error Messages -->
+    <string name="nfc_not_supported">NFC not supported on this device</string>
+    <string name="nfc_disabled">Please enable NFC in settings</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported</string>
+    <string name="bluetooth_enabled">Bluetooth enabled</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="error_sharing_image">Error sharing image</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="permissions_required">Permissions required for full functionality</string>
+
+    <!-- Sharing -->
+    <string name="share_image">Share Image</string>
+    <string name="bring_devices_together">Bring devices together to share</string>
+
+    <!-- File Operations -->
+    <string name="image_received">Image received successfully</string>
+    <string name="image_sent">Image sent successfully</string>
+
+</resources>

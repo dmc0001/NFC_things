@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- External files directory for pictures -->
+    <external-files-path
+        name="pictures"
+        path="Pictures/" />
+
+    <!-- External files directory for shared files -->
+    <external-files-path
+        name="shared"
+        path="Pictures/Shared/" />
+
+    <!-- External files directory for NFC transfers -->
+    <external-files-path
+        name="nfc_transfer"
+        path="Pictures/NFCTransfer/" />
+
+    <!-- Cache directory for temporary files -->
+    <cache-path
+        name="cache"
+        path="." />
+
+    <!-- External cache directory -->
+    <external-cache-path
+        name="external_cache"
+        path="." />
+
+</paths>
